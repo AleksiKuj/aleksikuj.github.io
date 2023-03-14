@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.582c0c6d.css",
-    "main.js": "/static/js/main.18d69442.js",
+    "main.css": "/static/css/main.4de806ce.css",
+    "main.js": "/static/js/main.8dd662d0.js",
     "static/media/league.png": "/static/media/league.f50afc4c49d77dd90f71.png",
     "static/media/fire.png": "/static/media/fire.18f4cfc665911927bbb6.png",
     "static/media/paint.webp": "/static/media/paint.6c253423e1fe6f0af868.webp",
+    "static/media/discord.png": "/static/media/discord.667df059ddf407979d68.png",
     "index.html": "/index.html",
-    "main.582c0c6d.css.map": "/static/css/main.582c0c6d.css.map",
-    "main.18d69442.js.map": "/static/js/main.18d69442.js.map"
+    "main.4de806ce.css.map": "/static/css/main.4de806ce.css.map",
+    "main.8dd662d0.js.map": "/static/js/main.8dd662d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.582c0c6d.css",
-    "static/js/main.18d69442.js"
+    "static/css/main.4de806ce.css",
+    "static/js/main.8dd662d0.js"
   ]
 }
